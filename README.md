@@ -253,14 +253,14 @@ After seeding data and logging in as an agent:
 
 ---
 
-## Author
-
-Full-stack Python developer focused on building practical, production-minded AI systems.
-
-Feel free to fork, open issues, or use this as a foundation for your own support platform.
-
----
-
 ## License
 
 MIT
+
+
+## Author
+
+**Rohit Kumar**
+
+Computer Science Engineering Student
+Full Stack Python Developer
